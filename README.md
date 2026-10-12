@@ -78,15 +78,17 @@ Global Superstore sells products across multiple markets, regions and customer s
 ## 📁 Repository Structure
 
 ```
-global-superstore-sales-profit-analysis/
-├── Overview.png          # Overview dashboard screenshot
-├── Deep Dive.png         # Deep Dive dashboard screenshot
-├── superstore.csv        # Raw dataset
-├── superstore_clean.csv  # Cleaned dataset (after Python cleaning)
-├── superstore.ipynb      # Jupyter notebook: data cleaning in Python
-├── superstore.twbx       # Tableau packaged workbook
-├── .gitignore.txt
-└── README.md
+Global-Superstore-Analysis/
+│
+├── README.md                          # Project overview, insights and recommendations
+├── superstore.csv                     # Raw dataset (51,290 rows, 27 columns)
+├── superstore_clean.csv               # Cleaned dataset used in Tableau
+├── superstore.ipynb                   # Python (pandas) data cleaning and analysis notebook
+├── superstore.twbx                    # Tableau packaged workbook (worksheets + dashboards)
+├── Overview.png                       # Dashboard 1: sales, profit, discounts, map, categories
+├── Deep Dive.png                      # Dashboard 2: countries, customers, shipping
+├── Global Superstore Sales & Profit Analysis Proje...   # Project report
+├── Global Superstore is growing but profit leaks ar...  # Presentation 
 ```
 
 ## ▶️ How to Run
