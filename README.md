@@ -4,9 +4,7 @@ An end-to-end data analysis project that explores the sales and profit performan
 
 🔗 **Live Dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/ayush.yadav7680/viz/superstore_17917793831830/Overview)
 
-[![Dashboard 1](images/dashboard_1.png)](https://public.tableau.com/app/profile/ayush.yadav7680/viz/superstore_17917793831830/Overview)
-
-![Dashboard 2](images/dashboard_2.png)
+[![Dashboard 1 & 2](images/dashboard_1.png)](https://public.tableau.com/app/profile/ayush.yadav7680/viz/superstore_17917793831830/Overview)
 
 ---
 
