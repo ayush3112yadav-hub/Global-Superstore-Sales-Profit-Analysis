@@ -79,17 +79,13 @@ Global Superstore sells products across multiple markets, regions and customer s
 
 ```
 global-superstore-sales-profit-analysis/
-├── data/
-│   ├── superstore.csv
-│   └── superstore_cleaned.csv
-├── notebooks/
-│   └── data_cleaning.ipynb
-├── tableau/
-│   └── superstore_dashboard.twbx
-├── images/
-│   ├── dashboard_1.png
-│   └── dashboard_2.png
-├── .gitignore
+├── Overview.png          # Overview dashboard screenshot
+├── Deep Dive.png         # Deep Dive dashboard screenshot
+├── superstore.csv        # Raw dataset
+├── superstore_clean.csv  # Cleaned dataset (after Python cleaning)
+├── superstore.ipynb      # Jupyter notebook: data cleaning in Python
+├── superstore.twbx       # Tableau packaged workbook
+├── .gitignore.txt
 └── README.md
 ```
 
