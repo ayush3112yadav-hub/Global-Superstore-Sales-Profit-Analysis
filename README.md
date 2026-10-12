@@ -101,6 +101,7 @@ global-superstore-sales-profit-analysis/
 ## 👤 Author
 
 **Ayush Yadav**
+
 Aspiring Data Analyst | SQL, Python, Tableau, Power BI
 
 🔗 [LinkedIn](https://www.linkedin.com/in/ayush-yadav-914246198)
